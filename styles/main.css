@@ -1,12 +1,12 @@
-.shop {
-    flex-basis: 20%;
-    border: 1px dotted black;
-    padding: 1em;
-    margin: 0.5em;
-    text-align: center;
-}
 .list {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+.shop {
+    flex-basis: 25%;
+    border: 1px dotted black;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center;
 }
